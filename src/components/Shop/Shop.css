@@ -9,6 +9,12 @@
     margin-right: 10px;
 
 }
-.cart-container{
-   
+.search-box{
+    background-color: black;
+    line-height: 50px;
+    text-align: center;
+
+}
+.search-box input{
+    width: 75%;
 }
